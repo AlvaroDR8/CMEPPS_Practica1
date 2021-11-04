@@ -63,7 +63,7 @@ public class Anagrams extends JFrame {
                 new Anagrams().setVisible(true);
             }
         });
-        System.out.println("Version 8-Branch");
+        System.out.println("Version 10-Branch en desarrollo");
     }
 
     private int wordIdx = 0;
